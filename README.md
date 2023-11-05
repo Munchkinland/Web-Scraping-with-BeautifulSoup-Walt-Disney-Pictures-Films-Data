@@ -1,5 +1,7 @@
 # Web Scraping with BeautifulSoup: Walt Disney Pictures Films Data
 
+Web scraping project using Python and BeautifulSoup to extract data about Walt Disney Pictures films from Wikipedia. The code gathers information about movie names and release dates, organizes it into a structured format, and exports the data to an Excel file. An efficient and educational example of web scraping for data extraction and analysis.
+
 ## Introduction
 
 This Python project showcases the art of web scraping, employing the BeautifulSoup library to extract invaluable data pertaining to Walt Disney Pictures films from Wikipedia. It serves as a powerful tool for gathering data on movie names and release dates.
