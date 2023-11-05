@@ -60,6 +60,7 @@ python script_name.py
 Contributions
 
 Contributions are always welcome! If you wish to improve this project or add your own magical touch, don't hesitate to fork this repository and submit a pull request with your enhancements.
+
 License
 
 This project is licensed under the MIT License. You can find more details in the LICENSE file.
